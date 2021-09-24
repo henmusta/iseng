@@ -1,0 +1,169 @@
+.body {
+    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.navbar-custom {
+    background-color: #000000;
+    padding: 8px 0;
+}
+
+.font-bold{
+ font-weight: bold;
+}
+
+.font-bold-1{
+ font-weight: 700;
+}
+
+.font-bold-2{
+ font-weight: 800;
+ font-size: 12px;
+}
+
+
+
+.card-font{
+	line-height: 22px;
+	margin: 0px 0px 2px;
+	font-weight: 550;
+}
+
+.header{
+	background: #fae62d; 
+	height: 500px
+}
+
+.svg-w{
+	stroke-width: 1pt;
+}
+
+.button-premium {
+	border-radius: 50px;
+	padding: 10px 60px 10px 60px;
+	background-color: #000000;
+}
+
+.button-paket {
+	border: 2px solid white;
+	border-radius: 50px;
+	padding: 10px 60px 10px 60px;
+}
+
+.button-hari {
+	border-radius: 50px;
+	padding: 10px 60px 10px 60px;
+	background-color: #000000;
+	color: #b49bc8;
+	font-weight: 700;
+}
+
+
+.button-minggu {
+	border: 2px solid black;
+	border-radius: 50px;
+	padding: 10px 60px 10px 60px;
+	color: #000000;
+	font-weight: 700;
+}
+
+.button-card {
+	border-radius: 4px;
+	padding: 4px 8px;
+	display: inline-block;
+	font-weight: 900;
+	margin: 0px 4px 10px 0px;
+	font-size: 12px;
+	margin-block: 0px 10px;
+}
+
+
+
+
+.sec_one{
+	background-color: #b49bc8; 
+	height: 350px;
+}
+
+.sec_two{
+	height: 550px;
+}
+
+.sec-three{
+	background-color: #eeeeee;
+	padding-top: 60px;
+	height: 550px;
+}
+
+.c-body{
+	padding-bottom: 20px;
+	height: 220px;
+	padding: 0rem;
+}
+
+.c-table{
+	padding-bottom: 20px;
+	height: 300px;
+	padding: 0rem;
+}
+.c-foot{
+	height: 120px;
+	padding: 0rem;
+}
+
+.c-hr{
+	padding: 0rem;
+}
+
+.c{
+	width: 17rem;
+}
+
+
+.header-image{
+	padding: 10px 0;
+	width:150px;
+	height:60px;
+}
+
+.subhed-image{
+
+	padding: 10px 0;
+	width:400px;
+	height:360px;
+}
+
+.agungasu{
+	font-weight: bold;
+	color: #fff;
+}
+
+.agungkambing{
+	font-weight: bold;
+	color: #000000;
+}
+
+.subheader{
+	padding-top: 50px;
+}
+.midheader{
+	padding-top: 80px;
+	text-align: center;
+}
+
+.agungmonyet{
+	font-weight: 600;
+	color: #000000;
+}
+
+.smallfont{
+	font-size: 12px;
+	
+}
+
+.smallcard{
+margin-top: 12px;
+font-size: 12px;
+line-height: 16px;
+font-weight: 400;
+text-align: left;
+}
